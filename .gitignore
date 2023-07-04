@@ -135,7 +135,7 @@ dmypy.json
 
 demo.py
 artifacts
-prediction_artifacts
+
 predictions
 test.ipynb
 
